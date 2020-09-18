@@ -15,6 +15,7 @@
     <a class="nav-link" href="ShoppingCart.php">Shopping cart/ आपकी खरीदारी</a>
     <a class="nav-link" href="Login.php">Login/लॉग इन करें</a>
     <a class="nav-link" href="signup.php">Signup/साइन अप करें</a>
+    <a class="nav-link" href="Resources.html">Resources/ साधन</a>
   </nav>
 </header>
 <a href="jobportal.php"><img src="portal.jpg" id="portal-img" ></img></a>
