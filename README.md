@@ -48,6 +48,17 @@ git clone https://github.com/aryansarkar13/Swawlambi.git
 
 Find our project presentation [here](https://docs.google.com/presentation/d/10HWiTnIscaXbwCRBVtE8V61aG55zkboYL_-3qf5v9do/edit?usp=sharing)
 
+## Screenshots
+
+<img src="Screenshots/1.jpeg" width="300">
+<img src="Screenshots/2.jpeg" width="300">
+<img src="Screenshots/3.jpeg" width="300">
+<img src="Screenshots/4.jpeg" width="300">
+<img src="Screenshots/5.jpeg" width="300">
+<img src="Screenshots/6.jpeg" width="300">
+<img src="Screenshots/7.jpeg" width="300">
+<img src="Screenshots/8.jpeg" width="300">
+
 ## Our Team
 
 * Aryan Sarkar
