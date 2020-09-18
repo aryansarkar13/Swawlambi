@@ -13,6 +13,7 @@
   </div>
   <nav id="nav-bar">
     <a class="nav-link" href="ShoppingCart.php">Shopping cart/ आपकी खरीदारी</a>
+    <a class="nav-link" href="Resources.html">Resources/ साधन</a>
     <a class="nav-link" href="Profile.php">Profile/ प्रोफ़ाइल</a>
     
   </nav>
